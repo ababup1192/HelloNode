@@ -1,0 +1,20 @@
+{
+  "name": "typescript_env",
+  "version": "1.0.0",
+  "description": "node typescript environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "ababup1192",
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-typescript": "^2.8.0"
+  }
+}
